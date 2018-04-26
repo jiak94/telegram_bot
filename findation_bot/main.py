@@ -2,7 +2,7 @@ from telegram.ext import *
 import command
 
 if __name__ == "__main__":
-    updater = Updater(token='570324542:AAF6oj0kIzjsp7WD7XwQcJi_Afi2WvaopKo')
+    updater = Updater(token='')
     dispatcher = updater.dispatcher
 
     search_handler = CommandHandler('search', command.search, pass_args=True)
