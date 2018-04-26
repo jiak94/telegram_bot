@@ -1,0 +1,16 @@
+certifi==2018.4.16
+chardet==3.0.4
+future==0.16.0
+get==1.0.2
+idna==2.6
+lxml==4.2.1
+mysql-connector==2.1.6
+peewee==3.2.5
+post==1.0.1
+public==1.0.1
+PyMySQL==0.8.0
+python-telegram-bot==10.0.2
+query-string==1.0.1
+request==1.0.1
+requests==2.18.4
+urllib3==1.22
