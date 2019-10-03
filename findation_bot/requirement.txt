@@ -4,10 +4,10 @@ future==0.16.0
 get==1.0.2
 idna==2.6
 lxml==4.2.1
-mysql-connector==2.1.6
+mysql-connector==2.1.7
 peewee==3.2.5
 post==1.0.1
-public==1.0.1
+public==1.0.2
 PyMySQL==0.8.0
 python-telegram-bot==10.0.2
 query-string==1.0.1
