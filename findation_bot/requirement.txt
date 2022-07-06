@@ -3,7 +3,7 @@ chardet==3.0.4
 future==0.16.0
 get==1.0.2
 idna==2.6
-lxml==4.2.1
+lxml==4.9.1
 mysql-connector==2.1.7
 peewee==3.2.5
 post==1.0.1
